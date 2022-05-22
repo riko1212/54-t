@@ -1,0 +1,1 @@
+{"version":3,"sources":["sass/_header.scss"],"names":[],"mappings":"AAAA,OACE,qBAAA,CACA,YAGF,GACE,eAAA,CACA,sBAGF,EACE,cAAA,CACA","file":"src.675533ca.css","sourceRoot":"../src","sourcesContent":["header {\n  background-color: teal;\n  margin: auto;\n}\n\nli {\n  list-style: none;\n  background-color: white;\n}\n\np {\n  font-size: 20px;\n  font-weight: 700;\n}\n"]}
